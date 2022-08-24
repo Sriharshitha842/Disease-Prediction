@@ -7,7 +7,7 @@ In this project, we utilized various symptoms as input parameters in machine lea
 
 
 **RESULTS**
-
+![image](https://github.com/Sriharshitha842/Multiple-Disease-Prediction-Using-Ensemble-Based-Learning/blob/main/screenshot3.png)
 ![image](https://github.com/Sriharshitha842/Multiple-Disease-Prediction-Using-Ensemble-Based-Learning/blob/main/screenshot1.png)
 ![image](https://github.com/Sriharshitha842/Multiple-Disease-Prediction-Using-Ensemble-Based-Learning/blob/main/screenshot2.png)
 
